@@ -6,7 +6,7 @@ namespace StcWebApi.Models.Cutomer
 {
     public class Customer
     {
-      
+      //sajeer
       public int Id { get; set; }
         [Required]
         [StringLength(50)]
